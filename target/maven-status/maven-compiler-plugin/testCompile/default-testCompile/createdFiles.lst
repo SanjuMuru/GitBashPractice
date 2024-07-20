@@ -1,0 +1,5 @@
+Campaigns\CreateCampaignWithProductTest.class
+Products\CreateProductTest.class
+Products\CreateProductAndDeleteProductTest.class
+Campaigns\CreateCampaignsTest.class
+Organizations\CreateOrganizationTest.class
